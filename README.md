@@ -5,7 +5,7 @@ SLIIT Y3 S2 DWBI Assignment
 
 This repository contains assignment work submitted for the **IT3021 – Data Warehousing and Business Intelligence** course at Sri Lanka Institute of Information Technology. The project covers both data warehouse design and business intelligence implementation for a hospital system.
 
----
+
 
 ## 📂 Assignment 01 – Data Warehouse Design
 ### 🔹 Features:
@@ -20,7 +20,7 @@ This repository contains assignment work submitted for the **IT3021 – Data War
 
 📄 Report: [`IT22589590_Assignment_01_Report.pdf`](./IT22589590_Assignment_01_Report.pdf)
 
----
+
 
 ## 📊 Assignment 02 – OLAP & Business Intelligence
 
@@ -39,7 +39,6 @@ This repository contains assignment work submitted for the **IT3021 – Data War
 
 📄 Report: [`IT22589590_Assignment_02_Report.pdf`](./IT22589590_Assignment_02_Report.pdf)
 
----
 
 ## 🛠 Tools & Technologies Used
 
