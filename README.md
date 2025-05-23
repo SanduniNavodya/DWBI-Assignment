@@ -41,14 +41,6 @@ This repository contains assignment work submitted for the **IT3021 – Data War
 
 ---
 
-## 👩‍💻 Author
-
-- **Name**: Navodya B G S  
-- **Registration Number**: IT22589590  
-- **Email**: it22589590@my.sliit.lk
-
----
-
 ## 🛠 Tools & Technologies Used
 
 - Microsoft SQL Server
