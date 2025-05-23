@@ -8,7 +8,6 @@ This repository contains assignment work submitted for the **IT3021 – Data War
 ---
 
 ## 📂 Assignment 01 – Data Warehouse Design
-
 ### 🔹 Features:
 - Galaxy Schema-based Data Warehouse
 - Source data from CSV files, text documents, and `.bak` database backup
